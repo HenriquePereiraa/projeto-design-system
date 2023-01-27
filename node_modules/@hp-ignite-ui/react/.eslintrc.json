@@ -1,0 +1,3 @@
+{
+    "extends":"@hp-ignite-ui/eslint-config"
+}
