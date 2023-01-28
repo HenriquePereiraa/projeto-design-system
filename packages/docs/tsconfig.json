@@ -1,0 +1,4 @@
+{
+    "extends":"@hp-ignite-ui/ts-config/react.json",
+    "include": ["src"]
+  }
