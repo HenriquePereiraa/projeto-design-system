@@ -4,10 +4,13 @@
     "packages/*"
   ],
   "scripts": {
-    "dev":"turbo run dev --parallel",
-    "build":"turbo run build"
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
   },
   "devDependencies": {
     "turbo": "^1.7.0"
+  },
+  "dependencies": {
+    "@radix-ui/react-checkbox": "^1.0.1"
   }
 }
