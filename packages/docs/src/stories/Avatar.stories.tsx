@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/henriquepereiraa.png',
     alt: 'Henrique Pereira',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
