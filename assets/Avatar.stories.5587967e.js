@@ -1,0 +1,2 @@
+import{A as r}from"./index.3422206b.js";import"./index.b01f53e0.js";import"./iframe.4e61d67c.js";import"./index.beb40f3d.js";import"./jsx-runtime.d5b09d6e.js";const s={title:"Data Display/Avatar",component:r,args:{src:"https://github.com/henriquepereiraa.png",alt:"Henrique Pereira"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,s as default};
+//# sourceMappingURL=Avatar.stories.5587967e.js.map
